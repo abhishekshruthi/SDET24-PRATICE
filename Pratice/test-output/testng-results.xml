@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-11T10:23:34 IST" name="Suite" finished-at="2021-11-11T10:23:34 IST" duration-ms="164">
+    <groups>
+    </groups>
+    <test started-at="2021-11-11T10:23:34 IST" name="Test" finished-at="2021-11-11T10:23:34 IST" duration-ms="164">
+      <class name="Pratice_Well.ReaddatafromCMD">
+        <test-method signature="readdatafromCMD()[pri:0, instance:Pratice_Well.ReaddatafromCMD@7219ec67]" started-at="2021-11-11T10:23:34 IST" name="readdatafromCMD" finished-at="2021-11-11T10:23:34 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readdatafromCMD -->
+      </class> <!-- Pratice_Well.ReaddatafromCMD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
