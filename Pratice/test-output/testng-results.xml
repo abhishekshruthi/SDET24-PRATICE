@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-11T10:23:34 IST" name="Suite" finished-at="2021-11-11T10:23:34 IST" duration-ms="164">
+  <suite started-at="2021-11-12T14:46:38 IST" name="Default suite" finished-at="2021-11-12T14:46:38 IST" duration-ms="171">
     <groups>
     </groups>
-    <test started-at="2021-11-11T10:23:34 IST" name="Test" finished-at="2021-11-11T10:23:34 IST" duration-ms="164">
-      <class name="Pratice_Well.ReaddatafromCMD">
-        <test-method signature="readdatafromCMD()[pri:0, instance:Pratice_Well.ReaddatafromCMD@7219ec67]" started-at="2021-11-11T10:23:34 IST" name="readdatafromCMD" finished-at="2021-11-11T10:23:34 IST" duration-ms="34" status="PASS">
+    <test started-at="2021-11-12T14:46:38 IST" name="Default test" finished-at="2021-11-12T14:46:38 IST" duration-ms="171">
+      <class name="Pratice_Well.LeadsTest">
+        <test-method signature="leadtest()[pri:0, instance:Pratice_Well.LeadsTest@28975c28]" started-at="2021-11-12T14:46:38 IST" name="leadtest" finished-at="2021-11-12T14:46:38 IST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readdatafromCMD -->
-      </class> <!-- Pratice_Well.ReaddatafromCMD -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- leadtest -->
+      </class> <!-- Pratice_Well.LeadsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
